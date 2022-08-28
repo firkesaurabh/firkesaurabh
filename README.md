@@ -1,9 +1,16 @@
 [<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width=auto>](https://www.linkedin.com/in/saurabhfirke/)
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hello, I am Saurabh Firke :wave:</h1>
 <p align='center'>
-I'm Saurabh.
+ 🔭 I’m currently working on my Anlytics skills
+- 🌱 I’m currently learning Econometrics
+- 👯 I’m looking to collaborate on Data Science
+- 🤔 I’m looking for help with visualiztion of data findings via graphics or other illustrations
+- 💬 Ask me about Data Anlytics and Relationship quries
+- 📫 How to reach me:  [LinkedIn - saurabhfirke](linkedin.com/in/saurabhfirke/)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: My dream vacation is going to Monaco and watch Monaco Grand Prix.
+
 </p>
-<p align='center'>For enquiries, reach out on <a href="saurabhfirke@gmail.com">Gmail</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
