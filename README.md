@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/<firkesaurabh/firkesaurabh/saurabh firke (1).gif "Header")](https://www.linkedin.com/in/saurabhfirke/)
+[![Social banner for saurabh](https://github.com/firkesaurabh/firkesaurabh/raw/saurabh firke (1).gif)](https://www.linkedin.com/in/saurabhfirke/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
