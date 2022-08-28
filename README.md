@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width=auto>](https://www.linkedin.com/in/saurabhfirke/)
 <h1 align='center'> Hello, I am Saurabh Firke :wave:</h1>
 
- 🔭 I’m currently working on my Anlytics skills
+  🔭 I’m currently working on my Anlytics skills
 - 🌱 I’m currently learning Econometrics
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with visualiztion of data findings via graphics or other illustrations
