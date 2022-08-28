@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with visualiztion of data findings via graphics or other illustrations
 - 💬 Ask me about Data Anlytics and Relationship quries
-- 📫 How to reach me:  [LinkedIn - saurabhfirke](linkedin.com/in/saurabhfirke/)
+- 📫 How to reach me:  [LinkedIn - saurabhfirke](https://www.linkedin.com/in/saurabhfirke/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My dream vacation is going to Monaco and watch Monaco Grand Prix.
 
