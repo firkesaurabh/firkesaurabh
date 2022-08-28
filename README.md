@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width=auto>
-(https://www.linkedin.com/in/saurabhfirke/)
+[<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width=auto>](https://www.linkedin.com/in/saurabhfirke/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Saurabh.
