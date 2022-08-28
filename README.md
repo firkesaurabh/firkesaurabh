@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width=auto>](https://www.linkedin.com/in/saurabhfirke/)
 <h1 align='center'> Hello, I am Saurabh Firke :wave:</h1>
-<p align='center'>
+
  🔭 I’m currently working on my Anlytics skills
 - 🌱 I’m currently learning Econometrics
 - 👯 I’m looking to collaborate on Data Science
@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My dream vacation is going to Monaco and watch Monaco Grand Prix.
 
-</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
