@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width="2000px">
+<img src="https://raw.githubusercontent.com/firkesaurabh/firkesaurabh/master/saurabh firke (1).gif" width="1000px">
 (https://www.linkedin.com/in/saurabhfirke/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
