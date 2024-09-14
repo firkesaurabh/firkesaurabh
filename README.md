@@ -1,4 +1,4 @@
-<h1 align='center'> Hello, I am Saurabh:wave:</h1>
+<h1 align='center'> Hello, I am Saurabh👋:</h1>
 
 - 🔭 I’m currently working on my Anlytics skills
 - 🌱 I’m currently learning Econometrics
